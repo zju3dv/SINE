@@ -1,0 +1,24 @@
+N_importance: 64
+N_samples: 64
+bound_clamp:
+- 2.5
+- 5.0
+dataset_name: llff
+depth_deformfield: 2
+dim_deformxyz_emb: 4
+editing_attribute: 2.0
+exp_name: honda-amaze_enlargewheels
+factor: 1.25
+img_wh:
+- 512
+- 384
+model_type:
+- nerf
+- deform_attribute
+- inv_deform_attribute
+noise_std: 1.0
+perturb: 1.0
+pose_avg_path: ./data/honda-amaze/pose_avg.npy
+root_dir: ./data/honda-amaze
+spheric_poses: true
+width_deformfield: 128
