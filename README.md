@@ -24,7 +24,8 @@ The steps of installation are as follows:
 We provide the [poses of each dataset](https://www.dropbox.com/scl/fi/m87bm4a6cgkvymzaecj4w/data.zip?rlkey=13iv03d4blcf2cjj7uz9iasjc&dl=0) for evaluation.
 
 ## Evaluation
-We provide [pre-trained models and configs](https://www.dropbox.com/scl/fo/c3pnb6daks5p1872xor8k/h?rlkey=rvifacsdxlp7uziiqhnlzxsg6&dl=0).
+<!-- We provide [pre-trained models and configs](https://www.dropbox.com/scl/fo/c3pnb6daks5p1872xor8k/h?rlkey=rvifacsdxlp7uziiqhnlzxsg6&dl=0). -->
+All the pre-trained models and configs can be found [here](https://www.dropbox.com/scl/fo/c3pnb6daks5p1872xor8k/h?rlkey=rvifacsdxlp7uziiqhnlzxsg6&dl=0).
 
 You can evaluate images with the pre-trained models. 
 
